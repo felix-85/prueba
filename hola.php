@@ -5,7 +5,16 @@
     <title>Primer php</title>
   </head>
   <body>
-    Hola <?php echo htmlspecialchars($_POST['nombre']); ?>.
-Tiene usted <?php echo (int)$_POST['edad']; ?> años.
+   <?php
+
+   for ($i=0; $i <10 ; $i++) {
+     echo "el numero es $i <br>";
+   }
+
+
+
+
+
+      ?>
   </body>
 </html>

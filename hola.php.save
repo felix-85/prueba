@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <meta charset="utf-8">
+ <title>Nuestro primer html</title>
+ </head>
+ <body>
+ Paco es un campeón!!!!
+	<?php echo "soy tu primer php";
+	?
+ </body>
+</html>
